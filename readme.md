@@ -55,7 +55,7 @@
 <a href = "https://www.linkedin.com/in/divyanshi-chouksey-83ba91222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_.divya.nshi._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://t.me/pixie_dusts"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
-
+<a href = "https://discordapp.com/users/921395255016837120"><img src="https://img.icons8.com/color/50/000000/discord-new-logo.png"/></a>
 </p>
 
 
